@@ -1,0 +1,19 @@
+{
+  "name": "backend-sheriyans",
+  "version": "1.0.0",
+  "description": "Its a Simple backend project...even my 1st backend project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Girish Garg",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
